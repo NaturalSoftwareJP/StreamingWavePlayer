@@ -92,6 +92,7 @@
     <ClCompile Include="StreamingWavePlayer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\..\..\..\Downloads\package.nuspec" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

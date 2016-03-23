@@ -35,5 +35,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
+    <None Include="..\..\..\..\Downloads\package.nuspec">
+      <Filter>リソース ファイル</Filter>
+    </None>
   </ItemGroup>
 </Project>

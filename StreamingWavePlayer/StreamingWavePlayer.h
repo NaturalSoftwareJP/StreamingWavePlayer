@@ -9,7 +9,7 @@
 using namespace System;
 using namespace System::Runtime::InteropServices;
 
-namespace NaturalSoftware {
+namespace	 {
 
     public ref class StreamingWavePlayer
     {
